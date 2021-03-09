@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matura1", "Matura1.vcxproj", "{87CAD432-CCD3-4EDD-9EAF-2E5D924A81CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87CAD432-CCD3-4EDD-9EAF-2E5D924A81CC}.Debug|x64.ActiveCfg = Debug|x64
+		{87CAD432-CCD3-4EDD-9EAF-2E5D924A81CC}.Debug|x64.Build.0 = Debug|x64
+		{87CAD432-CCD3-4EDD-9EAF-2E5D924A81CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{87CAD432-CCD3-4EDD-9EAF-2E5D924A81CC}.Debug|x86.Build.0 = Debug|Win32
+		{87CAD432-CCD3-4EDD-9EAF-2E5D924A81CC}.Release|x64.ActiveCfg = Release|x64
+		{87CAD432-CCD3-4EDD-9EAF-2E5D924A81CC}.Release|x64.Build.0 = Release|x64
+		{87CAD432-CCD3-4EDD-9EAF-2E5D924A81CC}.Release|x86.ActiveCfg = Release|Win32
+		{87CAD432-CCD3-4EDD-9EAF-2E5D924A81CC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {804799C7-475D-4117-BC3F-D2B176044139}
+	EndGlobalSection
+EndGlobal
